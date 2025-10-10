@@ -1,0 +1,7 @@
+print("My Name Is Ashif")
+print("My Age Is 23")
+print("My DOB Is 26/04/2002")
+print("My Gender Is Male")
+print("My Address Is Kalavasal")
+print("My Mother Name Is Rafitha")
+print("My Father Name Is Syed Ali")
