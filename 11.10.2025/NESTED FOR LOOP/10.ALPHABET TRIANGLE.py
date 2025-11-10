@@ -1,0 +1,6 @@
+# Alphabet Triangle - Print letters in this pattern.
+
+for i in range (1,5):
+    for j in range (65,65+i):
+        print(chr(j),end="")
+    print()
